@@ -9,13 +9,13 @@ const meusProjetos = [
   {
     titulo: "Ecommerce (Versao1)",
     descricao: "Catalogo de produtos, rating de produtos e carrinho de compras (javascript)",
-    imagem: "imagens/ECommerce(versao1).png",
+    imagem: "Imagens/Ecommerce(versao1).png",
     githubUrl: "https://eltong-ifrs.github.io/Meus-Projetos/login.html"
   },
   {
     titulo: "Agendador de Tarefas",
     descricao: "Um programa simples que agenda tarefas (CRUD)",
-    imagem: "Imagens/agendadorTarefas.png",
+    imagem: "Imagens/AgendadorTarefas.png",
     githubUrl: "https://eltong-ifrs.github.io/Agendador-de-Tarefas/tarefas.html"
   },
   {
@@ -28,7 +28,7 @@ const meusProjetos = [
     titulo: "Flapy Bird (Versao3)",
     descricao: "Um jogo Adaptando o Basico do FlapyBird e aidcionando mais elementos",
     imagem: "Imagens/flapyBird(versao3).png",
-    githubUrl: "https://eltong-ifrs.github.io/flapybird-versao-6/"
+    githubUrl: "https://eltong-ifrs.github.io/FlapyBird-versao3-/"
   },
   
 ];
