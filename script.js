@@ -1,35 +1,36 @@
 // Lista de projetos (Basta adicionar ou remover objetos deste Array)
 const meusProjetos = [
   {
-    titulo: "Flappy Bird",
+    titulo: "Flappy Bird (Versao1)",
     descricao: "Um jogo minimalista parecido com o famoso Flappy Bird! Utilizado para a introdução ao JavaScript.",
-    imagem: "https://via.placeholder.com/400x250/70c5ce/ffffff?text=FlappyBird",
-    githubUrl: "https://github.com/seu-usuario/flappy-bird"
+    imagem: "Imagens/flapyBird(versao1).png",
+    githubUrl: "https://eltong-ifrs.github.io/flapybird-versao-4/"
   },
   {
-    titulo: "Termo",
-    descricao: "Jogo do Termo! Usado também para a introdução ao JavaScript!",
-    imagem: "https://via.placeholder.com/400x250/2d2d2d/ffffff?text=TERMO",
-    githubUrl: "https://github.com/seu-usuario/termo"
+    titulo: "Ecommerce (Versao1)",
+    descricao: "Catalogo de produtos, rating de produtos e carrinho de compras (javascript)",
+    imagem: "imagens/Ecommerce(versao1).png",
+    githubUrl: "https://eltong-ifrs.github.io/Meus-Projetos/login.html"
   },
   {
-    titulo: "Previsão do Tempo",
-    descricao: "Previsão do tempo com API. Usado para aprendermos a usar a API!",
-    imagem: "https://via.placeholder.com/400x250/87ceeb/ffffff?text=Previsão+do+Tempo",
-    githubUrl: "https://github.com/seu-usuario/previsao-tempo"
+    titulo: "Agendador de Tarefas",
+    descricao: "Um programa simples que agenda tarefas (CRUD)",
+    imagem: "Imagens/AgendadorTarefas.png",
+    githubUrl: "https://eltong-ifrs.github.io/Agendador-de-Tarefas/tarefas.html"
   },
   {
-    titulo: "Ecommerce",
-    descricao: "Um ecommerce realizado para aprofundarmos os conhecimentos em JavaScript!",
-    imagem: "https://via.placeholder.com/400x250/f0a500/ffffff?text=Ecommerce",
-    githubUrl: "https://github.com/seu-usuario/ecommerce"
+    titulo: "Flapy Bird (Versao2)",
+    descricao: "Um jogo Adaptando o Basico do FlapyBird e aidcionando mais elementos",
+    imagem: "Imagens/flapyBird(versao2).png",
+    githubUrl: "https://eltong-ifrs.github.io/flapybird-versao-6/"
   },
   {
-    titulo: "Jogo da adivinhação!",
-    descricao: "Jogo para adivinhar o número de 1 até 100! Desenvolvido para a introdução em JavaScript!",
-    imagem: "https://via.placeholder.com/400x250/ffffff/333333?text=1+2+3+4+5",
-    githubUrl: "https://github.com/seu-usuario/jogo-adivinhacao"
-  }
+    titulo: "Flapy Bird (Versao3)",
+    descricao: "Um jogo Adaptando o Basico do FlapyBird e aidcionando mais elementos",
+    imagem: "Imagens/flapyBird(versao3).png",
+    githubUrl: "https://eltong-ifrs.github.io/flapybird-versao-6/"
+  },
+  
 ];
 
 // Função para renderizar os cards na tela
