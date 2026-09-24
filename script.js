@@ -9,13 +9,13 @@ const meusProjetos = [
   {
     titulo: "Ecommerce (Versao1)",
     descricao: "Catalogo de produtos, rating de produtos e carrinho de compras (javascript)",
-    imagem: "imagens/Ecommerce(versao1).png",
+    imagem: "imagens/ECommerce(versao1).png",
     githubUrl: "https://eltong-ifrs.github.io/Meus-Projetos/login.html"
   },
   {
     titulo: "Agendador de Tarefas",
     descricao: "Um programa simples que agenda tarefas (CRUD)",
-    imagem: "Imagens/AgendadorTarefas.png",
+    imagem: "Imagens/agendadorTarefas.png",
     githubUrl: "https://eltong-ifrs.github.io/Agendador-de-Tarefas/tarefas.html"
   },
   {
